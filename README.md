@@ -1,7 +1,7 @@
 
 
 <p align="center">
-![alt text](1.jpg)
+![alt text](img/1.jpg)
 </p>
 
 
