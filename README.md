@@ -1,8 +1,7 @@
 
 
-<p align="center">
-<img source="C:\Users\Ricardo\Desktop\monaschinas\img/1.jpg>
-</p>
+![alt text](/img/1.jpg)
+
 
 
 # Repositorio de monas chinas
