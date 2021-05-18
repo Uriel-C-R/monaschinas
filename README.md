@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<![alt text](C:\Users\Ricardo\Desktop\monaschinas\img)
+![alt text](1.jpg)
 </p>
 
 
